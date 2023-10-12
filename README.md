@@ -12,3 +12,7 @@ A YouTube clone project that replicates the core functionalities and features of
 - react-icons </br>
 - Moment.js </br>
 - Millify
+
+### Screen
+
+![](youtube.gif)
